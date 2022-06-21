@@ -1,3 +1,1 @@
-# Tools
-
-Small tools that I've made to ease my everyday life and practice Python
+# Little tools I made to ease my routine and to practice Python
